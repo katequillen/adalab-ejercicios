@@ -1,0 +1,21 @@
+.imagec {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+
+.imagec2 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
+
+.menu {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
+
+.body {
+  width: 50%;
+}

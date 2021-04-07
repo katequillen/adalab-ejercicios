@@ -1,0 +1,15 @@
+.menu {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
+
+.imagec {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+
+.body {
+  width: 50%;
+}
