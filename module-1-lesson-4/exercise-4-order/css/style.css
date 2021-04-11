@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  border: 10px green;
+  background-color: grey;
+  height: 100 vh;
+  width: 100 vw;
+}
+
+.text {
+  border: 1px solid purple;
+  width: 300px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: 10px;
+}
+
+.text_main {
+  order: -1;
+  padding: 10px;
+}
+
+.angy {
+  height: 50%;
+  width: 100%;
+}

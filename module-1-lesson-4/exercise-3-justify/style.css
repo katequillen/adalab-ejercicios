@@ -1,0 +1,15 @@
+.container {
+  height: 100px;
+  width: 840px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: cornflowerblue;
+  border: 3px rgb(207, 207, 3);
+  border-style: solid;
+}
+
+.item {
+  margin: 20px;
+  font-size: 25px;
+}

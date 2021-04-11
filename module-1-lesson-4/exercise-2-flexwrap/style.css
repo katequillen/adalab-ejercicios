@@ -1,0 +1,19 @@
+.container {
+  height: 440px;
+  width: 840px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  background-color: cornflowerblue;
+  border: 3px rgb(207, 207, 3);
+  border-style: solid;
+}
+
+.item {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  border: 5px black;
+  border-style: solid;
+}

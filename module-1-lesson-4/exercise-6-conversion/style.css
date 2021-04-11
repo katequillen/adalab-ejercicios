@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  max-width: 960px;
+  text-align: center;
+}
+
+.header {
+  background-color: green;
+  height: 20px;
+}
+
+.main {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+
+.aside1 {
+  background-color: red;
+  width: 20%;
+  order: 1;
+}
+
+.article {
+  background-color: yellow;
+  width: 80%;
+  order: 2;
+  padding: 3px;
+}
+
+.aside2 {
+  background-color: blue;
+  width: 20%;
+  order: 3;
+}
+
+.footer {
+  background-color: indigo;
+  height: 20px;
+  order: 4;
+}
