@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  max-width: 600px;
+  max-height: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 3px lightslategray;
+}
+
+.name {
+  width: 90%;
+}
+
+.pdf {
+  background-color: red;
+  color: rgb(252, 242, 223);
+  padding: 2px;
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 5px;
+}
+
+.hr {
+  color: lightslategray;
+}
